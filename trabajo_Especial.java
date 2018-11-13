@@ -63,7 +63,7 @@ public class trabajo_Especial {
 //				i=M;
 //				System.out.println("Corto");
 //			}
-			System.out.println(i + ") probabilidad2: " + probabilidad2 + " diferencia: " + resultado);
+			System.out.println(i + ") probabilidad: " + probabilidad2 + " diferencia: " + resultado);
 			probabilidad1=probabilidad2;
 			i++;
 
